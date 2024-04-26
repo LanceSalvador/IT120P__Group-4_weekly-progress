@@ -1,7 +1,10 @@
 # IT120P__Group-4_weekly-progress
 
 Overview
-Welcome to the weekly progress report for our term project, a dynamic website aiming to [describe project goal]. This README provides an overview of the structure, purpose, and expectations for the weekly progress reports.
+Welcome to the weekly progress report for our term project, a dynamic website aiming to establish an intuitive and user-friendly online platform for browsing
+and purchasing groceries. To streamline order management processes, including inventory tracking and delivery coordination. 
+
+This README provides an overview of the structure, purpose, and expectations for the weekly progress reports.
 
 Purpose
 The purpose of the weekly progress report is to ensure transparency, track progress, identify challenges, and foster collaboration among team members. It serves as a tool for monitoring the development of the project, aligning efforts, and making informed decisions to ensure successful project completion.
