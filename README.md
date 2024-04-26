@@ -18,12 +18,13 @@ Next Steps: Outlines the planned activities, tasks, and goals for the upcoming s
 Challenges Faced: Identifies any obstacles, difficulties, or issues encountered during the sprint.
 Key Accomplishments: Highlights the significant milestones, tasks completed, and achievements during the sprint.
 Other Updates: Provides any additional information, insights, or reflections relevant to the project.
+
 Submission Guidelines
 Timing: The progress report is due at the end of each sprint.
 Distribution: Share the progress report with all team members/
 Feedback: Encourage team members to provide feedback, suggestions, and updates on the progress report during team meetings or via comments.
+
 Collaboration and Communication
 Effective collaboration and communication are crucial for the success of the project. Please utilize the following channels for collaboration and communication:
-
 Team Meetings: Schedule regular team meetings to discuss progress, address challenges, and plan upcoming tasks.
 Documentation: Maintain clear documentation of tasks, decisions, and updates to ensure visibility and accountability.
